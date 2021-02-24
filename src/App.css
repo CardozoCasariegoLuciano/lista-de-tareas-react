@@ -21,3 +21,11 @@
     transform: rotate(360deg);
   }
 }
+
+.prioridad{
+
+  background-color: rgb(204, 58, 87);
+  padding: 5px;
+  color: #eee;
+  border-radius: 30%;
+}
