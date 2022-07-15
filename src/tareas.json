@@ -1,36 +1,9 @@
 {
     "tareas":[
         {
-            "titulo": "Tarea 1",
-            "responsale": "El Pepe",
-            "escripcion": "alta tarea",
-            "prioridad": "baja" 
-        },
-
-        {
-            "titulo": "Tarea 2",
-            "responsale": "El Pepe",
-            "escripcion": "alta tarea",
-            "prioridad": "media" 
-        },
-
-        {
-            "titulo": "Tarea 3",
-            "responsale": "El Pepe",
-            "escripcion": "alta tarea",
-            "prioridad": "alta" 
-        },
-
-        {
-            "titulo": "Tarea 4",
-            "responsale": "El Pepe",
-            "escripcion": "alta tarea",
-            "prioridad": "alta" 
-        },
-        {
-            "titulo": "Tarea 5",
-            "responsale": "El Pepe",
-            "escripcion": "alta tarea",
+            "titulo": "Tarea de prueba",
+            "responsale": "Me",
+            "escripcion": "Prueba",
             "prioridad": "alta" 
         }
     ]
